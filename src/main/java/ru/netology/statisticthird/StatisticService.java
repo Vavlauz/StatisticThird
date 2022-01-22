@@ -1,4 +1,4 @@
-package ru.netology.statistic_third;
+package ru.netology.statisticthird;
 
 public class StatisticService {
         /**
